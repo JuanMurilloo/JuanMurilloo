@@ -4,11 +4,11 @@
 lógica, conecto los sistemas y me hago responsable de que todo siga funcionando. Desarrollador web senior ·
 Medellín, Colombia 🇨🇴
 
-| +130 | +5 | +15 | 6 |
+| +130 | +5 | +15 | 7 |
 |:---:|:---:|:---:|:---:|
-| proyectos web | años de experiencia | industrias | mercados |
+| proyectos web | años de experiencia | industrias | países |
 
-<sub>Colombia · Estados Unidos · México · Ecuador · Chile · Países Bajos</sub>
+<sub>Colombia · Estados Unidos · México · Ecuador · Perú · Chile · Países Bajos</sub>
 
 ---
 
